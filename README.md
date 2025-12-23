@@ -57,6 +57,7 @@ Uses `GROUP BY` and `HAVING` to find vehicles that have been booked more than tw
 1. Create the database:
    ```sql
   create database "vehiclerental";
+  ```
 2. Connect to vehiclerental using Beekeeper Studio
 
 3. Run schema and data scripts
